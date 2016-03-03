@@ -1,0 +1,6 @@
+I created a new file by clicking on new file under Code tab.
+Quite easy.
+
+Cannnot just save it to master, not accessible.
+  Ok - i lied - i missed the block at the top where I need to enter the file.
+  Thought it was the "Commit new file" space at the bottom.
